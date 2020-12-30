@@ -5,4 +5,4 @@ A clone of the most famous search engine, using the wikipedia API for the search
 (followed tutorial)
 
 
-![GitHub Logo](/search.png)
+![GitHub Logo](/Search.png)
